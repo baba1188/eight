@@ -1,1 +1,1 @@
-var baseApiUrl = 'https://hub666.fxisi.cn';
+var baseApiUrl = 'https://hub666.tofu36.cn';
